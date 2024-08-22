@@ -1,0 +1,6 @@
+﻿  TicTacToeApp.cpp
+  com.cpp
+Z:\Visual Studio Solutions\TicTacToeApp\TicTacToeApp\com.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  menu.cpp
+  Generating Code...
+  TicTacToeApp.vcxproj -> Z:\Visual Studio Solutions\TicTacToeApp\x64\Debug\TicTacToeApp.exe
