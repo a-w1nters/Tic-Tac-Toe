@@ -1,0 +1,1 @@
+This is a basic tic tac toe app. This application has two modes: singleplayer and local two player. This is the first c++ program I have built. I am currently learning and implementing what I have learned so far.
