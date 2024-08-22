@@ -1,0 +1,13 @@
+﻿  Board.cpp
+  com.cpp
+F:\Git_Repo\TicTacToeApp\TicTacToeApp\com.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  menu.cpp
+  Player.cpp
+  TicTacToeApp.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+F:\Git_Repo\TicTacToeApp\TicTacToeApp\Board.cpp(72): warning C4715: 'Board::setPos': not all control paths return a value
+  All 150 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TicTacToeApp.vcxproj -> F:\Git_Repo\TicTacToeApp\x64\Release\TicTacToeApp.exe
