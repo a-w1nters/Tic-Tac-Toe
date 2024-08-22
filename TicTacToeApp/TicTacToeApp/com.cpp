@@ -116,7 +116,7 @@ void Com::makeChoice() {
 			row_Choice = 1;
 			col_Choice = 2;
 			break;
-		}//end
+		}
 		else if (ticTacToe[0][0] == '-' && ticTacToe[1][1] == 'O' && ticTacToe[2][2] == 'O') {
 			ticTacToe[0][0] = 'O';
 			col_Choice = 0;
